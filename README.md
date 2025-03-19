@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tarun2k5
-- 👀 I’m interested in ...python and c programming 
+- 👋 Hi, I’m Tarun Samrat 
+- 👀 I’m interested in ...HTML, CSS, Python, MySQL for Database handling programming 
 - 🌱 I’m currently learning ...Python 
 - 💞️ I’m looking to collaborate on ...Python Project 
 - 📫 How to reach me ...tarunsamrat4@gmail.com
